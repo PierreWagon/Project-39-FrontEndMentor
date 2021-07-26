@@ -627,4 +627,8 @@ input[type=text].active {
         background-size: 300px;
         background-position: top 500px right -120px;
     }
+
+    h1 {
+        font-size: 2.2em;
+    }
 }
